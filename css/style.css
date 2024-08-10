@@ -1,0 +1,40 @@
+.card {
+    transition: all 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.10);
+}
+
+.navbarr ul li a{
+    color: white;
+}
+
+.navbarr ul li a:hover {
+    color: rgb(223, 117, 205);
+}
+
+.navbarr ul li a i{
+    color: white;
+}
+
+.colorinicio{
+    color: white;
+}
+
+.colorcarrito{
+    color: white;
+}
+
+.colorcarrito:hover {
+    color: rgb(223, 117, 205);
+} 
+
+.quienesomos{
+    text-align: justify;
+    line-height: 1.5em;
+}
+
+.quienesomos img{
+    border-radius: 20px;
+}
